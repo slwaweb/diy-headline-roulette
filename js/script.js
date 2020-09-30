@@ -3,9 +3,9 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'mals6rl6e171clms';
     // Either provide full API query here or include options below
-    var apiQuery = '';
+    var apiQuery = 'crime';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
     var keywords = '';
@@ -19,7 +19,7 @@ $(function(){
     var year = '';
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
-    var titles = '';
+    var titles = '30';
     // Add a byline, eg:
     var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
     // var byline = '';
